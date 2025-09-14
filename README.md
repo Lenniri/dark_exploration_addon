@@ -36,3 +36,9 @@ Feel free to submit issues and pull requests for improvements.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+READ THIS!
+> This mod is abandonded and can be work on by you guys... This mod lua script is insane for its time. This mod was planned to released 12 YEARS AGO! I find this mod on my brother computer and has been stored in GMod addons folder for A LONG TIME! So, you guys can reworked this addons as this addon have many error and stuff like that as it was unfinished.
